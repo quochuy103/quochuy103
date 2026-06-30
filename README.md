@@ -1,68 +1,94 @@
-# 👋 Hi there, I'm Huy
+<!-- HEADER -->
+<h1 align="center">Hi, I'm Huy 👋</h1>
+<p align="center">
+  Frontend Developer • Information Technology Student • Vietnam 🇻🇳
+</p>
 
-🚀 Frontend Developer | 💻 Information Technology Student | 🌱 Always learning
+<p align="center">
+  Building clean, scalable web experiences with modern JavaScript ecosystems.
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧭 About
 
-- 🎓 I'm a 1st-year IT student (PTIT - Vietnam)
-- 💡 Focus: Frontend Development (React, TypeScript, Tailwind CSS)
-- 🌱 Currently learning: JavaScript, React, and system design basics
-- 🎯 Goal: Become a strong Full-stack Developer with AI integration skills
+I'm an IT student focused on **Frontend Development** with a strong interest in building real-world products and scalable UI systems.
+
+- 🎓 PTIT - Information Technology
+- 💻 Focus: Frontend Engineering (React, TypeScript, UI Systems)
+- 🌱 Currently improving: System Design, Performance Optimization, Clean Architecture
+- 🎯 Goal: Become a strong Full-stack Developer with AI-powered product thinking
 - 📍 Based in Hanoi, Vietnam
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ Tech Stack
 
-### 💻 Languages
-- JavaScript (ES6+)
-- TypeScript
-- HTML5 / CSS3
+### Core
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
+![TypeScript](https://img.shields.io/badge/TypeScript-Blue-blue)
+![HTML5](https://img.shields.io/badge/HTML5-orange)
+![CSS3](https://img.shields.io/badge/CSS3-blue)
 
-### ⚛️ Frontend
-- React.js
-- Next.js (learning)
-- Tailwind CSS
-- Redux / Context API
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-Functional%20Components-61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-SSR-black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Utility--First-38B2AC)
 
-### 🧰 Tools
-- Git & GitHub
-- VS Code
-- Figma (basic UI design)
-- Postman
-
----
-
-## 📌 Featured Projects
-
-> (You can replace these later with your real projects)
-
-- 🔗 **Portfolio Website** – Personal introduction website built with React
-- 🔗 **Room Finder Web App** – A platform to view rental rooms with images & prices
-- 🔗 **JavaScript Mini Projects** – Small apps for learning DOM & logic
+### Tools
+![Git](https://img.shields.io/badge/Git-Version%20Control-red)
+![GitHub](https://img.shields.io/badge/GitHub-Repo-black)
+![VSCode](https://img.shields.io/badge/VSCode-Editor-blue)
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects
 
-![Huy's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+> Selected projects focused on learning and real-world application.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+### 🏠 Room Rental Platform
+A web application that helps students find rental rooms with images, pricing, and details.
+
+- Stack: React, TailwindCSS, Node.js (planned backend)
+- Focus: UI design, data modeling, UX clarity
 
 ---
 
-## 📫 Contact Me
+### 📦 JavaScript Practice Lab
+A collection of small projects to strengthen logic, DOM manipulation, and problem solving.
 
-- 📧 Email: your-email@example.com  
+- Calculator, Todo App, Form Validation, etc.
+- Focus: JavaScript fundamentals + clean code structure
+
+---
+
+### 🌐 Personal Portfolio (In Progress)
+A modern portfolio website to showcase projects and experience.
+
+- Stack: React + TailwindCSS
+- Focus: Minimal UI, performance, responsiveness
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+---
+
+## 📫 Contact
+
 - 💼 LinkedIn: https://www.linkedin.com/in/huy-pham-quoc-017769353/
 - 🐙 GitHub: https://github.com/YOUR_USERNAME
+- 📧 Email: your-email@example.com
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Philosophy
 
-I enjoy building clean UI and turning ideas into real products step by step.
+> “Build things that are simple, scalable, and meaningful.”
 
 ---
