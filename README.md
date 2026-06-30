@@ -44,8 +44,6 @@ I'm an IT student focused on **Frontend Development** with a strong interest in 
 
 ## 🚀 Featured Projects
 
-> Selected projects focused on learning and real-world application.
-
 ### 🏠 Room Rental Platform
 A web application that helps students find rental rooms with images, pricing, and details.
 
@@ -70,15 +68,6 @@ A modern portfolio website to showcase projects and experience.
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="170"/>
-</p>
-
----
-
 ## 📫 Contact
 
 - 💼 LinkedIn: https://www.linkedin.com/in/huy-pham-quoc-017769353/
@@ -90,5 +79,3 @@ A modern portfolio website to showcase projects and experience.
 ## ⚡ Philosophy
 
 > “Build things that are simple, scalable, and meaningful.”
-
----
